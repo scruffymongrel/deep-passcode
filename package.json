@@ -3,7 +3,7 @@
  "bugs": {
   "url": "https://github.com/scruffymongrel/deep-passcode/issues"
  },
- "description": "Return the local machine's first external IPv4 address.",
+ "description": "Generate a Deep passcode.",
  "license": "MIT",
  "main": "index.js",
  "name": "deep-passcode",
