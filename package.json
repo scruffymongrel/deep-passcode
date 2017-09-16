@@ -1,0 +1,18 @@
+{
+ "author": "Andy Dennis",
+ "bugs": {
+  "url": "https://github.com/scruffymongrel/deep-passcode/issues"
+ },
+ "description": "Return the local machine's first external IPv4 address.",
+ "license": "MIT",
+ "main": "index.js",
+ "name": "deep-passcode",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/scruffymongrel/deep-passcode"
+ },
+ "version": "1.0.0",
+ "dependencies": {
+  "deep-ipv4": "^1.0.0"
+ }
+}
